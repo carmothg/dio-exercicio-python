@@ -13,3 +13,10 @@ Este repositório contém um exercício desenvolvido para aplicar os conceitos b
   - Condicionais (`if`/`elif`/`else`)
   - De Repetição (`for`/`while`)
 - **Operações com Strings**
+- **Estrutura de Dados**
+  - Listas
+  - Tuplas
+  - Dicionários
+- **Funções**
+  - Passagem de paremetros nomeados
+  - Passagem de parametros por posição
