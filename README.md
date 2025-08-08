@@ -1,6 +1,6 @@
 # Exercício de Desafio para o Módulo Básico de Python
 
-Este repositório contém um exercício desenvolvido para aplicar os conceitos básicos da linguagem Python.
+Este repositório contém um exercício desafio desenvolvido para aplicar os conceitos básicos da linguagem Python.
 
 ## Conteúdos Aplicados
 
